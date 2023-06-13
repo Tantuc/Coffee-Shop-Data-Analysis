@@ -1,0 +1,1 @@
+Test task for a Junior Data Analyst job.
